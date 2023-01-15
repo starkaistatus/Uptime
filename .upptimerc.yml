@@ -1,0 +1,60 @@
+# Change these first
+owner: navaneethkm004 # Your GitHub username
+repo: uptime # Your GitHub repository name
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
+# Add your sites here
+sites:
+  - name: Harmony Bot
+    url: $HARMONY
+    icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
+  - name: Harmony Bot Website
+    url: $HARMONY_WEB
+    icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
+  - name: Harmony Backup Bot
+    url: $HARMONY_BACKUP
+    icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
+
+status-website:
+  # Add your custom domain below, or remove the next line if you don't have a domain
+  # cname: demo.upptime.js.org
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  favicon: https://github.com/navaneethkm004/my-images/blob/main/circle-cropped%20(7).png?raw=true
+  baseUrl: /uptime
+  theme: dark
+  logoUrl: https://github.com/navaneethkm004/my-images/blob/main/circle-cropped%20(7).png?raw=true
+  name: Navaneeth K M
+  introTitle: " "
+  introMessage: " " 
+  
+  navbar:
+    - title: Status
+      href: /
+    - title: Website
+      href: https://navaneethkm004.github.io/
+    - title: Github
+      href: https://github.com/navaneethkm004
+
+i18n:
+  footer: "This page is powered by [Navaneeth](https://navaneethkm004.github.io/)"
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
+
+#  up: "✅ Up"
+#  degraded: "⚠️ Degraded"
+#  down: "🚨 Down"
+#  liveStatusHtmlComment: "<!--live status-->"
+#  allSystemsOperational: "✅ All systems operational"
+#  degradedPerformance: "⚠️ Degraded performance"
+#  completeOutage: "🚨 Complete outage"
+#  partialOutage: "🟧 Partial outage"  
+
+commitMessages:
+  commitAuthorName: "NKMBot"
+  commitAuthorEmail: "uptime-bot@navaneethkm.gq"
+
+workflowSchedule:
+  uptime: "*/2 * * * *"
