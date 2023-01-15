@@ -58,4 +58,4 @@ commitMessages:
   commitAuthorEmail: "support@starkai.live"
 
 workflowSchedule:
-  uptime: "*/2 * * * *"
+  uptime: "*/5 * * * *"
