@@ -25,6 +25,7 @@ status-website:
   favicon: https://graph.org/file/d544abfc59ac3a2028489.jpg
   baseUrl: /uptime
   theme: dark
+  cname: status.starkai.live
   logoUrl: https://graph.org/file/d544abfc59ac3a2028489.jpg
   name: Stark AI Status
   introTitle: " "
