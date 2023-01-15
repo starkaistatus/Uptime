@@ -8,14 +8,14 @@ skipHomepageUpdate: true
 
 # Add your sites here
 sites:
-  - name: Harmony Bot
-    url: $HARMONY
+  - name: Stark AI
+    url: https://starkai.live
     icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
-  - name: Harmony Bot Website
-    url: $HARMONY_WEB
+  - name: Stark AI Beta
+    url: https://beta.starkai.live
     icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
-  - name: Harmony Backup Bot
-    url: $HARMONY_BACKUP
+  - name: API Endpoint
+    url: https://starkai.live/sydney/chat/msg/hi
     icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
 
 status-website:
