@@ -10,13 +10,13 @@ skipHomepageUpdate: true
 sites:
   - name: Stark AI
     url: https://starkai.live
-    icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
+    #icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
   - name: Stark AI Beta
     url: https://beta.starkai.live
-    icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
+    #icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
   - name: API Endpoint
     url: https://starkai.live/sydeny/chat/message/hi
-    icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
+    #icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
