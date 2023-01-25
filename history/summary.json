@@ -4,18 +4,20 @@
     "url": "https://starkai.live",
     "icon": "https://icons.duckduckgo.com/ip3/starkai.live.ico",
     "slug": "stark-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 866,
-    "timeDay": 632,
-    "timeWeek": 818,
+    "timeDay": 0,
+    "timeWeek": 795,
     "timeMonth": 866,
     "timeYear": 866,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "Stark AI Beta",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 903,
-    "timeDay": 625,
-    "timeWeek": 862,
-    "timeMonth": 903,
-    "timeYear": 903,
+    "time": 1598,
+    "timeDay": 12015,
+    "timeWeek": 2444,
+    "timeMonth": 1598,
+    "timeYear": 1598,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/starkai.live.ico",
     "slug": "api-endpoint",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 2436,
-    "timeDay": 5616,
-    "timeWeek": 3089,
-    "timeMonth": 2436,
-    "timeYear": 2436,
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 2399,
+    "timeDay": 5764,
+    "timeWeek": 3115,
+    "timeMonth": 2399,
+    "timeYear": 2399,
     "dailyMinutesDown": {
-      "2023-01-25": 6,
       "2023-01-15": 10
     }
   }
