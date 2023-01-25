@@ -4,19 +4,19 @@
     "url": "https://starkai.live",
     "icon": "https://icons.duckduckgo.com/ip3/starkai.live.ico",
     "slug": "stark-ai",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 866,
-    "timeDay": 0,
-    "timeWeek": 795,
-    "timeMonth": 866,
-    "timeYear": 866,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 878,
+    "timeDay": 1075,
+    "timeWeek": 830,
+    "timeMonth": 878,
+    "timeYear": 878,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 6
     }
   },
   {
