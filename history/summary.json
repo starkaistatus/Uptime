@@ -22,18 +22,20 @@
     "url": "https://beta.starkai.live",
     "icon": "https://icons.duckduckgo.com/ip3/beta.starkai.live.ico",
     "slug": "stark-ai-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1282,
-    "timeDay": 840,
-    "timeWeek": 958,
-    "timeMonth": 1282,
-    "timeYear": 1282,
-    "dailyMinutesDown": {}
+    "time": 1262,
+    "timeDay": 739,
+    "timeWeek": 918,
+    "timeMonth": 1262,
+    "timeYear": 1262,
+    "dailyMinutesDown": {
+      "2023-02-09": 0
+    }
   },
   {
     "name": "API Endpoint",
