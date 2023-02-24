@@ -24,10 +24,10 @@
     "url": "https://beta.starkai.live",
     "icon": "https://icons.duckduckgo.com/ip3/beta.starkai.live.ico",
     "slug": "stark-ai-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 1091,
@@ -36,6 +36,7 @@
     "timeMonth": 1153,
     "timeYear": 1091,
     "dailyMinutesDown": {
+      "2023-02-24": 1,
       "2023-02-14": 16
     }
   },
