@@ -1,7 +1,7 @@
 url: https://starkai.live
-status: up
-code: 200
-responseTime: 320
-lastUpdated: 2023-08-10T23:07:17.405Z
+status: down
+code: 500
+responseTime: 146
+lastUpdated: 2023-08-11T04:11:57.086Z
 startTime: Sun Jan 15 2023 03:28:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
