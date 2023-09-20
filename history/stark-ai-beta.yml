@@ -1,7 +1,7 @@
 url: https://beta.starkai.live
-status: up
-code: 200
-responseTime: 153
-lastUpdated: 2023-09-19T23:07:24.240Z
+status: down
+code: 503
+responseTime: 219
+lastUpdated: 2023-09-20T11:45:20.215Z
 startTime: 2023-01-15T03:28:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
