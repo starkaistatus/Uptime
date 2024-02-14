@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/starkai.live.ico",
     "slug": "stark-ai",
     "status": "down",
-    "uptime": "87.05%",
+    "uptime": "86.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "6.11%",
-    "uptimeYear": "86.03%",
+    "uptimeMonth": "2.82%",
+    "uptimeYear": "85.75%",
     "time": 612,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 448,
+    "timeMonth": 452,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2024-02-13": 76,
+      "2024-02-14": 76,
+      "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
@@ -88,8 +89,7 @@
       "2023-05-27": 67,
       "2023-05-22": 369,
       "2023-05-21": 157,
-      "2023-03-14": 27,
-      "2023-02-14": 16
+      "2023-03-14": 27
     }
   },
   {
@@ -98,18 +98,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.starkai.live.ico",
     "slug": "stark-ai-beta",
     "status": "down",
-    "uptime": "87.06%",
+    "uptime": "86.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "6.11%",
-    "uptimeYear": "86.03%",
+    "uptimeMonth": "2.82%",
+    "uptimeYear": "85.76%",
     "time": 660,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 640,
-    "timeYear": 610,
+    "timeMonth": 608,
+    "timeYear": 608,
     "dailyMinutesDown": {
-      "2024-02-13": 76,
+      "2024-02-14": 76,
+      "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
@@ -174,8 +175,7 @@
       "2023-05-27": 67,
       "2023-05-22": 386,
       "2023-05-21": 157,
-      "2023-03-14": 26,
-      "2023-02-14": 16
+      "2023-03-14": 26
     }
   },
   {
@@ -184,18 +184,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/starkai.live.ico",
     "slug": "api-endpoint",
     "status": "down",
-    "uptime": "42.77%",
+    "uptime": "42.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "6.11%",
-    "uptimeYear": "38.28%",
+    "uptimeMonth": "2.82%",
+    "uptimeYear": "38.00%",
     "time": 688,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 332,
-    "timeYear": 548,
+    "timeMonth": 369,
+    "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-02-13": 76,
+      "2024-02-14": 76,
+      "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
@@ -424,8 +425,7 @@
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 157,
-      "2023-03-14": 25,
-      "2023-02-14": 16
+      "2023-03-14": 25
     }
   }
 ]
