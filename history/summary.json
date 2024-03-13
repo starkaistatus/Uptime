@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/starkai.live.ico",
     "slug": "stark-ai",
     "status": "down",
-    "uptime": "81.27%",
+    "uptime": "81.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "78.36%",
+    "uptimeYear": "78.08%",
     "time": 612,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 573,
+    "timeYear": 572,
     "dailyMinutesDown": {
-      "2024-03-12": 74,
+      "2024-03-13": 76,
+      "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
@@ -115,8 +116,7 @@
       "2023-06-18": 22,
       "2023-05-27": 67,
       "2023-05-22": 369,
-      "2023-05-21": 157,
-      "2023-03-14": 27
+      "2023-05-21": 157
     }
   },
   {
@@ -125,18 +125,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.starkai.live.ico",
     "slug": "stark-ai-beta",
     "status": "down",
-    "uptime": "81.28%",
+    "uptime": "81.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "78.37%",
+    "uptimeYear": "78.09%",
     "time": 660,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 592,
+    "timeYear": 591,
     "dailyMinutesDown": {
-      "2024-03-12": 74,
+      "2024-03-13": 76,
+      "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
@@ -228,8 +229,7 @@
       "2023-07-06": 59,
       "2023-05-27": 67,
       "2023-05-22": 386,
-      "2023-05-21": 157,
-      "2023-03-14": 26
+      "2023-05-21": 157
     }
   },
   {
@@ -238,18 +238,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/starkai.live.ico",
     "slug": "api-endpoint",
     "status": "down",
-    "uptime": "39.93%",
+    "uptime": "39.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "30.61%",
+    "uptimeYear": "30.34%",
     "time": 688,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 488,
+    "timeYear": 485,
     "dailyMinutesDown": {
-      "2024-03-12": 74,
+      "2024-03-13": 76,
+      "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
@@ -505,8 +506,7 @@
       "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
-      "2023-05-21": 157,
-      "2023-03-14": 25
+      "2023-05-21": 157
     }
   }
 ]
